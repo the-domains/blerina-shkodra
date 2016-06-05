@@ -1,0 +1,28 @@
+name: Blerina Shkodra
+favicon: null
+layout_spectrum: 0.8258824904914945
+typography_spectrum: 0.44587
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4133043272886425
+  lightness: 0.9842406220268458
+  saturation: 0.9189021494239569
+  rhythmicContrast: 0.029412718024104834
+purpose: []

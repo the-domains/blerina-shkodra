@@ -1,7 +1,7 @@
 name: Blerina Shkodra
 favicon: null
-layout_spectrum: 0.29191
-typography_spectrum: 0.44587
+layout_spectrum: 0.8258824904914945
+typography_spectrum: 0.7021268361713737
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#95a6d2'
-    - '#9ca9d3'
-    - '#9aa7d4'
-    - '#99a7d1'
-    - '#9aa7d2'
-  brandStrength: 0.3125
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4133043272886425
   lightness: 0.9842406220268458
-  saturation: 0.9375
+  saturation: 0.9189021494239569
   rhythmicContrast: 0.029412718024104834
 purpose: []

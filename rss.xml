@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Blerina Shkodra]]></title>
+        <description><![CDATA[Blerina Shkodra]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 05 Jun 2016 21:05:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fabric]]></title>
+            <description><![CDATA[<p>What we eat is what we are, but are we what we wear? How we cover (or uncover) our bodies is one but many ways to express individuality. It is a choice we make consciously (or unconsciously) when putting those pieces of fabric together. And choices, do leave their fingerprints on identity, be they diminutive or bold. Clothes and garments are a daily routine that can't be escaped from, and as such I try to make it as a fun and pleasurable part of the day. A good hair day is a great day, but a good #ootd is a perfect one. </p>]]></description>
+            <link>undefinedfabric/index.html</link>
+            <guid isPermaLink="false">035b1189-7120-4e36-8ea4-2ad1a4a711a2</guid>
+            <pubDate>Sun, 05 Jun 2016 21:04:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
